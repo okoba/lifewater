@@ -5,29 +5,29 @@
  -------------------------
  */
 a {
-  color: #3446ff;
+  color: #114573;
   text-decoration: none;
 }
 a:hover,
 a:focus {
-  color: #0014e6;
+  color: #114573;
 }
 p a {
-  border-bottom: 1px solid #3446ff;
+  border-bottom: 1px solid #114573;
 }
 p a:hover {
-  border-bottom: 1px solid #0014e6;
+  border-bottom: 1px solid #114573;
 }
 body {
   color: #0c0c17;
   background: #ffffff;
 }
 body ::-moz-selection {
-  background: #3446ff;
+  background: #114573;
   color: #ffffff;
 }
 body ::selection {
-  background: #3446ff;
+  background: #114573;
   color: #ffffff;
 }
 #page,
@@ -61,10 +61,10 @@ body ::selection {
   background: rgba(12, 12, 23, 0.05);
 }
 .scroll-progressbar div {
-  background: #3446ff;
+  background: #114573;
 }
 .scroll-progressbar .scroll-shadow {
-  box-shadow: 0 0 10px #3446ff, 0 0 5px #3446ff;
+  box-shadow: 0 0 10px #114573, 0 0 5px #114573;
 }
 /* 
  Titles
